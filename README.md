@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&duration=3500&pause=2500&color=F7F7F7&vCenter=true&random=false&width=435&lines=Welcome+to+Buzz90's+Github!" alt="Typing SVG" /></a>
 </div>
 
-## [👨🏻‍💻] About Me
+## [👨🏻‍💻] About Me:
 My name is Enoch John Santoso from **Indonesia**🇮🇩,  **B.Sc in Cyber Security** graduated from **Asia Pacific Institute of Information Technology (APIIT), Malaysia 🇲🇾**. Currently pursuing **M.Sc in Cyber Security** in **Staffordshire University London (SUL) Digital Institute, United Kingdom 🇬🇧**.
 
 I have always been interested in sharing the knowledge we have to everyone. Because I learned that by teaching others, it also improves our knowledge as well.
@@ -20,7 +20,11 @@ I have always been interested in sharing the knowledge we have to everyone. Beca
 
 - **Karoe Roastery (2023-2024)**: Successfully conceptualized, developed, and implemented a state-of-the-art smart roasting machine, leveraging expertise in Internet of Things. GitHub link: [Roastduino](https://github.com/Buzz90/Roastduino)
 
-## [🛠️] Skills
+## [📍] Currently Working At:
+
+> **Part Time Coding Teacher @ Timedoor Academy (2022-2024)**
+
+## [🛠️] Skills:
 
 ### Essentials:
 
@@ -45,7 +49,7 @@ I have always been interested in sharing the knowledge we have to everyone. Beca
 </p>
 
 
-## [💼] Portofolio
+## [💼] Portofolio:
 
 > **Practices:** [Github Link](https://github.com/Buzz90/Cybersecurity-Practices/blob/main/)
 >
