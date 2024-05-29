@@ -1,6 +1,6 @@
 <div align="center" style="display: inline-block;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&duration=3500&pause=2500&color=F7F7F7&vCenter=true&random=false&width=435&lines=Welcome+to+Buzz90's+Github!" alt="Typing SVG" /></a>
-    <div style="background-color: white; width: 65px; height: 65px; border-radius: 100%;">
+    <div style="background-color: white; width: 20px; height: 20px; border-radius: 100%;">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" />
   </div>
 </div>
