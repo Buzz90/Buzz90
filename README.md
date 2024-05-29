@@ -23,7 +23,6 @@ My name is Enoch John Santoso from **Indonesia**🇮🇩 , a **B.Sc. Cyber Secur
 
 ## [📊] Github Stats
 
- <img align="left" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Buzz90&theme=dark&hide_border=true" alt="GitHub Streak" />
- <img align="right" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzz90&theme=react&layout=compact&langs_count=20&hide_title=true"/>
+ <img align="left" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Buzz90&theme=transparent" alt="GitHub Streak" />
+ <img align="right" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzz90&theme=transparent&layout=compact&langs_count=20&hide_title=true" alt="GitHub Programming Languages/>
 
- 
