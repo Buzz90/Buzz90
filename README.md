@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center" style="display: inline-block;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=48&duration=3500&pause=2500&color=F7F7F7&random=false&width=435&lines=Welcome+to+Buzz90's+Github!" alt="Typing SVG style="display: inline-block;" /></a>
+</div>
 
 <!--
 **Buzz90/Buzz90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
