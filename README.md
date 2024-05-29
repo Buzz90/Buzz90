@@ -7,13 +7,6 @@ My name is Enoch John Santoso from **Indonesia**🇮🇩,  **B.Sc in Cyber Secur
 
 I have always been interested in sharing the knowledge we have to everyone. Because I learned that by teaching others, it also improves our knowledge as well.
 
-## [🌏] Countries I Have Travelled To:
-
-- **Malaysia**🇲🇾
-- **Australia**🇦🇺
-- **New Zealand**🇳🇿
-- **More to come...**
-
 ## [🏅] Achievements:
 
 - **Timedoor Academy Curriculum Maker (2023-2024)**: Successfully conceptualized, wrote, and published two comprehensive books dedicated to tutoring kids in the exciting realms of coding and game making.
