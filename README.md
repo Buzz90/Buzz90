@@ -19,11 +19,11 @@ I have always been interested in sharing the knowledge we have to everyone. Beca
 
 ## [💼] Portofolio:
 
-> **Practices:** [Github Link](https://github.com/Buzz90/Cybersecurity-Practices/blob/main/)
->
-> **Roastduino Smart Coffee Roaster**: [Github Link](https://github.com/Buzz90/Roastduino)
->
-> ***New projects coming soon!***
+- **Practices:** [Github Link](https://github.com/Buzz90/Cybersecurity-Practices/blob/main/)
+
+- **Roastduino Smart Coffee Roaster**: [Github Link](https://github.com/Buzz90/Roastduino)
+
+- ***New projects coming soon!***
 
 ## [🛠️] Skills:
 
