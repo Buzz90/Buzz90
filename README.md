@@ -17,6 +17,14 @@ I have always been interested in sharing the knowledge we have to everyone. Beca
 
 ### **Part Time Coding Teacher @** [**Timedoor Academy**](https://timedooracademy.com/) **(2022-2024)**
 
+## [💼] Portofolio:
+
+> **Practices:** [Github Link](https://github.com/Buzz90/Cybersecurity-Practices/blob/main/)
+>
+> **Roastduino Smart Coffee Roaster**: [Github Link](https://github.com/Buzz90/Roastduino)
+>
+> ***New projects coming soon!***
+
 ## [🛠️] Skills:
 
 ### Essentials:
@@ -40,12 +48,3 @@ I have always been interested in sharing the knowledge we have to everyone. Beca
     <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzz90&theme=transparent&layout=compact&langs_count=20&hide_title=true" alt="GitHub Programming Languages"/>
     </a>
 </p>
-
-
-## [💼] Portofolio:
-
-> **Practices:** [Github Link](https://github.com/Buzz90/Cybersecurity-Practices/blob/main/)
->
-> **Roastduino Smart Coffee Roaster**: [Github Link](https://github.com/Buzz90/Roastduino)
->
-> ***New projects coming soon!***
