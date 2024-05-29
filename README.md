@@ -3,7 +3,7 @@
 </div>
 
 ## [👨🏻‍💻] About Me
-My name is Enoch John Santoso from **Indonesia**🇮🇩,  **B.Sc in Cyber Security** graduate from **Asia Pacific Institute of Information Technology (APIIT), Malaysia 🇲🇾**. Currently pursuing **M.Sc in Cyber Security** in **Staffordshire University London (SUL) Digital Institute, United Kingdom 🇬🇧**.
+My name is Enoch John Santoso from **Indonesia**🇮🇩,  **B.Sc in Cyber Security** graduated from **Asia Pacific Institute of Information Technology (APIIT), Malaysia 🇲🇾**. Currently pursuing **M.Sc in Cyber Security** in **Staffordshire University London (SUL) Digital Institute, United Kingdom 🇬🇧**.
 
 I have always been interested in sharing the knowledge we have to everyone. Because I learned that by teaching others, it also improves our knowledge as well.
 
