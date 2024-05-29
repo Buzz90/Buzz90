@@ -10,31 +10,20 @@ My name is Enoch John Santoso from **Indonesia**🇮🇩 , a **B.Sc. Cyber Secur
 ### Essentials:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,cs,cpp,eclipse,github,html,htmx,java,js,kali,linux,md,mysql,opencv,php,powershell,processing,py,visualstudio,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arduino,cs,cpp,eclipse,github,html,htmx,java,js,kali,linux,md,mysql,opencv,php,powershell,processing,py,visualstudio,vscode&perline=10"/>
   </a>
 </p>
 
 ### Non-Essentials:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender,lua,notion,replit,robloxstudio,sketchup,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender,lua,notion,replit,robloxstudio,sketchup,&perline=10"/>
   </a>
 </p>
 
+## [📊] Github Stats
 
+ <img align="left" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Buzz90&theme=dark&hide_border=true" alt="GitHub Streak" />
+ <img align="right" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzz90&theme=react&layout=compact&langs_count=20&hide_title=true"/>
 
-
-<!--
-**Buzz90/Buzz90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
